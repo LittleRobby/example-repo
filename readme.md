@@ -1,4 +1,4 @@
 # Example Repository
 This is a sample repo, hello world!
 
-Hello git!
+Hello gitHub!
